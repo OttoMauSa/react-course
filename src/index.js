@@ -12,7 +12,7 @@ root.render(
   <>
     <TaskCard ready={false} />
     <Saludar />
-    <Button text={'hola'}/>
+    <Button text={'holass'}/>
     <input onChange={function (e) {
       console.log(e)
     }}/>
